@@ -12,3 +12,4 @@ export const Card = (props: Props) => {
         </div>
     );
 };
+
